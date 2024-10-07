@@ -1,5 +1,18 @@
+*{
+    font-family: "Open Sans", sans-serif;
+}
+
+header{ background-image: url(https://www.messoanuovo.it/cdn/shop/articles/PC-gaming-scaled.jpg?v=1707413030);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+
 p{ color: rgb(167, 2, 98);}
+
 h2{ color: rgb(24, 175, 87); background-color: yellow;}
-h1{ color: blue; background-color: black;}
-.padre{ background-image: url(./https://picsum.photos/200)!important;}
+
 body{ color: rgb(226, 8, 8);}
+
